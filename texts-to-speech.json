@@ -1,0 +1,11 @@
+{
+  "Texts": {
+    "Address": "Nosso endereço é: Avenida Brigadeiro Faria Lima, número dois nove quatro um, esquina com a rua Jerônimo da Veiga.",
+    "Email": "O nosso email é: contato arroba, A G 24 horas, ponto com, ponto br.",
+    "OrderStatus": "Se você deseja uma posição sobre o seu material, por favor certifique-se de ter em mãos: o número da Ordem de Produção e o nome da pessoa que lhe atendeu. Obrigada!",
+    "Parking": "Temos estacionamento conveniado. Ele está localizado na rua Jerônimo da Veiga número, quatro meia um, bem ao lado da AlphaGraphics. Obtendo o selo de desconto ao pagar seu serviço no caixa, você paga apenas 10 reais pelo primeiro período.",
+    "WhatsApp": "Por favor, anote o nosso WhatsApp. Ele é igual ao nosso número fixo: onze, trinta sete oito, quatro nove, zero zero. Vou repetir. Onze, trinta sete oito, quatro nove, zero zero.",
+    "WorkingHours": "Nossa unidade é 24 horas todos os dias, de segunda a domingo, inclusive aos feriados. Só fechamos alguns dias durante o natal, ano novo e carnaval. Estamos de portas abertas 24 horas em todos os demais dias do ano."
+  },
+  "AzureVoice":"pt-BR-HeloisaRUS"
+}
